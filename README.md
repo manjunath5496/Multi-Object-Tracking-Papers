@@ -27,7 +27,7 @@
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Object-Tracking-Papers/blob/master/mbj(14).pdf" style="text-decoration:none;">1st Place Solutions forWaymo Open Dataset Challenges - 2D and 3D Tracking</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Object-Tracking-Papers/blob/master/mbj(15).pdf" style="text-decoration:none;">Segment as Points for Ecient Online Multi-Object Tracking and Segmentation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Object-Tracking-Papers/blob/master/mbj(15).pdf" style="text-decoration:none;">Segment as Points for Efficient Online Multi-Object Tracking and Segmentation</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Object-Tracking-Papers/blob/master/mbj(16).pdf" style="text-decoration:none;">Factor Graph based 3D Multi-Object Tracking in Point Clouds</a></li>
 
