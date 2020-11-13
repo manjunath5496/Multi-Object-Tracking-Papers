@@ -58,7 +58,7 @@
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Object-Tracking-Papers/blob/master/mbj(30).pdf" style="text-decoration:none;">Multiple Target Tracking Based on Undirected Hierarchical Relation Hypergraph</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Object-Tracking-Papers/blob/master/mbj(31).pdf" style="text-decoration:none;">TheWay They Move: Tracking Multiple Targets with Similar Appearance</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Object-Tracking-Papers/blob/master/mbj(31).pdf" style="text-decoration:none;">The Way They Move: Tracking Multiple Targets with Similar Appearance</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Object-Tracking-Papers/blob/master/mbj(32).pdf" style="text-decoration:none;">EvaluatingMultiple Object Tracking Performance: The CLEAR MOT Metrics</a></li> 
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Object-Tracking-Papers/blob/master/mbj(33).pdf" style="text-decoration:none;">Detect to Track and Track to Detect</a></li>                              
